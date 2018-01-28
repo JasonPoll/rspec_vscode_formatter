@@ -68,6 +68,9 @@ There's very little useful output, actually other than the single-line failure m
 ^TestFailure:\\s+TestFile:(\\S+)\\s+Line:(\\d+)\\s+Message:(.*)$
 ```
 
+And VSCode's Problem panel gives me nice output: 
+![example](https://i.imgur.com/WbrSouc.png)
+
 # Usage
 Assuming you already have RSpec all setup and configured:
 
